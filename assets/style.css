@@ -7,17 +7,21 @@ body {
 .testa {
   text-align: center;
   background-color: #fff7e6;
-  padding: 0.6em 1.5 em;
-  border-top: 0.125 em solid #e0c9a6;
+  padding: 0.6em 1.5em;
+  border-top: 0.125em solid #e0c9a6;
 }
 div p {
   text-align: center;
-  margin: 1.25 em auto;
+  margin: 1.25em auto;
 }
 h3 {
-  padding-bottom: 0.3 em;
+  padding-bottom: 0.3em;
 }
 img {
   display: block;
-  margin: 1.25 em auto;
+  margin: 1.25em auto;
+}
+main {
+  max-width: 600px;
+  margin-inline: auto;
 }
