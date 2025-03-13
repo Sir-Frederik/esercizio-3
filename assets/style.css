@@ -4,11 +4,13 @@ body {
   padding: 0;
   font-size: 1em;
 }
-.testa {
+header h4 {
   text-align: center;
   background-color: #fff7e6;
-  padding: 0.6em 1.5em;
+  padding: 1 rem;
   border-top: 0.125em solid #e0c9a6;
+  font-weight: 400;
+  color: #107777;
 }
 div p {
   text-align: center;
